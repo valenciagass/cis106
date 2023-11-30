@@ -103,3 +103,5 @@ A library is a collection of pre-compiled pieces of code called functions.
 
 **Repository**
 A Linux repository is a storage location that contains essential and popular software for different Linux distributions and, each distribution has its own official repositories (also called standard-repositories).
+
+
