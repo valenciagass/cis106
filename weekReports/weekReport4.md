@@ -48,7 +48,7 @@ course: cis106
 *  In a filesystem, every file has a pathname which indicates the location fo the file int he filesystem (like an address)
   
 * **absolute path**
-* the locaion of a file starting at the root of the file system.
+* the location of a file starting at the root of the file system.
   
 * **relative path**
 * the location of a file starting from the current working directory or a directory that is located inside the current working directory.
