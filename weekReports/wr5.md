@@ -47,6 +47,13 @@ course: cis106
 
 ## Practice 1
 ![practice 1](wr5-p1.png)<br>
-![practice 2]
-![practice 3]
-![practice 4]
+
+## Practice 2
+![practice 2](wr5-p2.png)<br>
+
+## Practice 3
+![practice 3](wr5-p3.png)<br>
+
+## Practice 4
+![practice 4](wr5-p4.png)<br>
+
