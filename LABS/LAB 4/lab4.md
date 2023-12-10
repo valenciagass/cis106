@@ -17,7 +17,7 @@ course: cis106
 ## Question 4
 ![q4](lab4.4.1.png)<br>
 ![q4.1](lab4.4.2.png)<br>
-![q4.2](lab4.4.3)<br>
+![q4.2](lab4.4.3.png)<br>
 ![q4.3](lab4.4.4.png)<br>
 ![q4.4](lab4.4.5.png)<br>
 
