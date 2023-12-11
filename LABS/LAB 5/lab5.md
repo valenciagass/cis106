@@ -23,4 +23,4 @@ course: cis106
 
 ## Challenge Question
 ![q5](q.5.1.png)<br>
-![q5.1](q5.2.png)<br>
+![q5.1](q5.2.png)<br> step 2 ^
