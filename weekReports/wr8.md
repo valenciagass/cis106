@@ -11,7 +11,8 @@ course: cis106
 - the vi command is now linked to the vim command, so now when you're using vi, you're actually using the vim editor.
 
 ### What is nano?
-Describe in your own words how to:
+- nano is an easy-to-use command line editor for unix and linux operating systems
+### Describe in your own words how to:
 - Start and quit vim
   - to start: open a terminal and type vim
   - to quit: you have to press esc key and then ':qa!'
